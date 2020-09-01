@@ -1,0 +1,42 @@
+body {
+    background-color: #f4f4f4;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+h1 {
+    font-family: Impact;
+    font-weight: lighter;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#header, footer{
+    text-align: center;
+
+}
+
+b {
+    color: #f0a500;
+}
+
+hr {
+    border-top: 3px #ec0101 dashed;
+    color:  #f4f4f4;
+}
+
+a:visited {
+    color: blue;
+}
+
+#msg {
+    width: 100%;
+    height: 100px;
+    text-align: left;
+}
+
+div {
+    margin-bottom: 25px;
+}
